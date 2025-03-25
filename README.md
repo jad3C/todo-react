@@ -13,6 +13,7 @@ Features:
 - Persist Data
 - Due Dates
 - Archived Todo Item
+- Dashboard
 
 ![alt text](image.png)
 
