@@ -1,0 +1,36 @@
+/* DASHBOARD STYLES*/
+.dashboard {
+	padding: 2.5rem;
+	background-color: #2c2c3d;
+	border-radius: 0.625rem;
+	box-shadow: 0 0 1.25rem rgba(0, 0, 0, 0.5);
+	margin: 2.5rem auto;
+	max-width: 1000px;
+	color: #e4e4e4;
+	width: 95%;
+}
+
+.dashboard h1 {
+	font-size: 1.75rem;
+	color: #f9844a;
+	text-align: center;
+	margin-bottom: 1.25rem;
+}
+
+.dashboard canvas {
+	background-color: #3b3b4e;
+	padding: 0.9375rem;
+	border-radius: 0.625rem;
+}
+
+/* MEDIA QUERY */
+@media (max-width: 768px) {
+	.dashboard {
+		padding-inline: 0.625rem;
+		margin: 20px auto;
+	}
+
+	.dashboard h1 {
+		font-size: 24px;
+	}
+}
