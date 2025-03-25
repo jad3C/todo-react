@@ -18,7 +18,7 @@ Features:
 
 ![alt text](image-1.png)
 
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/d3ba8aa7-cd0a-4802-9ffa-778dd9b384d8)
 
 ![alt text](image-3.png)
 
