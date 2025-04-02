@@ -13,8 +13,6 @@ Features:
 - Persist Data
 - Due Dates
 - Archived Todo Item
-<<<<<<< HEAD
-=======
 - Dashboard
 
 ![image](https://github.com/user-attachments/assets/26dcff67-1df6-464a-a9b1-a036ca1dcc3a)
